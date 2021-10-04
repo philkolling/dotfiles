@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = phil@kolling.de
+	name = Phil Kolling
